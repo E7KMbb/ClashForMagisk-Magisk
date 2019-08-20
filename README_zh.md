@@ -55,7 +55,14 @@ A rule-based tunnel in Go. This module is wrapper for [clash](https://github.com
 
   `logcat -s Clash`
   
-  
+
+
+
+## 源码
+
+参见 https://github.com/Kr328/ClashForMagisk
+
+
 
 ## 反馈
 

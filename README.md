@@ -53,3 +53,9 @@ Create the following file to control clash
   Run command
 
   `logcat -s Clash`
+
+
+
+## Source
+
+See also https://github.com/Kr328/ClashForMagisk
