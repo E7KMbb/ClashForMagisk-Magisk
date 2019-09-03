@@ -9,6 +9,10 @@ A rule-based tunnel in Go. This module is wrapper for [clash](https://github.com
 * arm64 指令集
 
 
+## 开源协议
+
+参见 [NOTICE](NOTICE) 和 [LICENSE](LICENSE)
+
 
 ## 功能
 

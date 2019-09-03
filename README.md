@@ -10,9 +10,11 @@ A rule-based tunnel in Go. This module is wrapper for [clash](https://github.com
 
 ## Feature
 
-See also https://github.com/Dreamacro/clash
+See also https://github.com/Dreamacro/clash  
 
+## License
 
+See also [NOTICE](NOTICE) and [LICENSE](LICENSE)
 
 ## Configure
 
